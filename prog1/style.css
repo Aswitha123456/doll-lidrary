@@ -1,0 +1,38 @@
+.header{
+    background-color: burlywood;
+    padding: 5px;
+}
+.aboutus{
+    background-color: #e5e5e5;
+    padding: 5px;
+}
+.products{
+    display:flex;
+}
+.doll1{
+
+    margin:50px;
+    justify-content: center;
+    border: 1px solid black;
+    padding: 10px; ;
+}
+.doll2{
+    
+    margin:50px;
+    justify-content: center;
+    border: 1px solid black;
+    padding:10px;
+}
+.doll3{
+    
+    margin: 50px;
+    justify-content: center;
+    border: 1px solid black;
+    padding: 10px;
+}
+.contactus{
+    background-color: #e5e5e5;
+}
+.message{
+    padding-left:250px; 
+}
